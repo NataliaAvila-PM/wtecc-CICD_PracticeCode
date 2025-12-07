@@ -2,6 +2,12 @@
 .DS_Store
 .Thumbs.db
 
+# IDE specific files
+.vscode/
+.idea/
+/.idea/
+
+
 # Unit test results
 unittests.xml
 
